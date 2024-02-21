@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Saurav K.'
+theme = 'PaperMod'
+enableEmoji = true
