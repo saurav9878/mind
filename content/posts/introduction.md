@@ -2,6 +2,7 @@
 title = 'About Me'
 date = 2024-02-21T20:03:15+05:30
 draft = false
+menus = 'main'
 +++
 
 :wave: there!
