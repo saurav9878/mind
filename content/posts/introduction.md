@@ -14,7 +14,7 @@ At the age of 14, I rooted an Android device. It gave me a superpower to explore
 
 > Life had something else planned for me.
 
-In a completely unrelated way, I landed up in a college with a major in Flight Electronics. In college, my curiousity took me to places like aerodynamics, semiconductors, machine learning and Arch Linux. :surfer:
+In a completely unrelated way, I landed up in [Asia's first space university](https://www.isro.gov.in/iist.html) with a major in Flight Electronics. In college, my curiousity took me to places like aerodynamics, semiconductors, machine learning and Arch Linux. :surfer:
 
 > Life happened, again
 
