@@ -20,3 +20,6 @@ url = "https://github.com/saurav9878"
 name = "Twitter"
 url = "https://twitter.com/zentiasas"
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-2D4RMB56FZ'
