@@ -6,7 +6,7 @@ enableEmoji = true
 
 [params.homeInfoParams]
 Title = ":wave: Saurav this side"
-Content = "This blog is an attempt to self-discover the inner layers of my mind."
+Content = "This blog is an attempt to capture my thoughts."
 
 [[params.socialIcons]]
 name = "LinkedIn"
