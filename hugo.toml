@@ -3,3 +3,20 @@ languageCode = 'en-us'
 title = 'Saurav K.'
 theme = 'PaperMod'
 enableEmoji = true
+
+[params.homeInfoParams]
+Title = ":wave: Saurav this side"
+Content = "This blog is an attempt to self-discover the inner layers of my mind."
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://linkedin.com/in/saurav-kr"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/saurav9878"
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://twitter.com/zentiasas"
+
