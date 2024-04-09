@@ -13,6 +13,7 @@ This is a growing list of the books I like to read. Some of them are half-way th
 - Designing Data Intensive applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann
 - Staff Engineer: Leadership beyond the management track - Will Larson
 - The Pragmatic Programmer - Andy Hunt and Dave Thomas
+- Computer Science Distilled: Learn the Art of Solving Computational Problems - Wladston Ferreira Filho
 
 **Product**
 
