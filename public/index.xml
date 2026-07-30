@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Saurav K.</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Saurav K.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2026 22:32:50 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
-      <link>http://localhost:1313/posts/products/</link>
+      <link>https://example.org/posts/products/</link>
       <pubDate>Thu, 30 Jul 2026 22:32:50 +0530</pubDate>
-      <guid>http://localhost:1313/posts/products/</guid>
+      <guid>https://example.org/posts/products/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;align-center &#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;https://d6xcmfyh68wv8.cloudfront.net/newsroom-content/uploads/2021/02/white-1536x327.png#center&#34; width=&#34;280&#34;/&gt; 
 &lt;/figure&gt;
@@ -44,9 +44,9 @@
     </item>
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/posts/books/</link>
+      <link>https://example.org/posts/books/</link>
       <pubDate>Thu, 22 Feb 2024 00:55:28 +0530</pubDate>
-      <guid>http://localhost:1313/posts/books/</guid>
+      <guid>https://example.org/posts/books/</guid>
       <description>&lt;p&gt;This is a growing list of the books I like to read. Some of them are half-way through (in progress).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tech&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -60,9 +60,9 @@
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://example.org/posts/introduction/</link>
       <pubDate>Wed, 21 Feb 2024 20:03:15 +0530</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>https://example.org/posts/introduction/</guid>
       <description>&lt;p&gt;&amp;#x1f44b; there!&lt;/p&gt;
 &lt;p&gt;I am Saurav, an engineer who loves building products with user empathy. I am a DIY person who&amp;rsquo;s a big fan of tinkering / hacking around stuff. In real life, I like anything that flies - RC planes, drones, gliders, &lt;a href=&#34;https://en.wikipedia.org/wiki/Ornithopter&#34;&gt;ornithopters&lt;/a&gt;. 🛸&lt;/p&gt;
 &lt;p&gt;As a child, I used to spend a lot of time playing &lt;a href=&#34;https://phoneky.com/games/&#34;&gt;J2ME games&lt;/a&gt; and was amazed to see the revolution of mobile devices since 2004.&lt;/p&gt;

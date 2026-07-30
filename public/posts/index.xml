@@ -2,17 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Saurav K.</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Saurav K.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2024 00:55:28 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 22:32:50 +0530</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Products</title>
+      <link>https://example.org/posts/products/</link>
+      <pubDate>Thu, 30 Jul 2026 22:32:50 +0530</pubDate>
+      <guid>https://example.org/posts/products/</guid>
+      <description>&lt;p&gt;&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://d6xcmfyh68wv8.cloudfront.net/newsroom-content/uploads/2021/02/white-1536x327.png#center&#34; width=&#34;280&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;strong&gt;Razorpay&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://razorpay.com/&#34;&gt;Razorpay&lt;/a&gt; is a major payments gateway facilitating payments over 140 billion USD annually for the merchants across India, Singapore, and US.&lt;/li&gt;
+&lt;li&gt;I owned critical systems like auth and compliance platform (~10k TPS) at Razorpay&lt;/li&gt;
+&lt;li&gt;Planned and executed multi-quarter project with cross team dependencies; led a team of 7 engineers&lt;/li&gt;
+&lt;li&gt;Interests: AI native engineering, human computer interaction, avid reader of hacker news - YC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png#center&#34; width=&#34;280&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Postman&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.postman.com&#34;&gt;Postman&lt;/a&gt; is the world&amp;rsquo;s largest API Platform tool for managing life cycle of APIs and collections for 25M users globally.&lt;/li&gt;
+&lt;li&gt;I was part of the &lt;a href=&#34;https://www.postman.com/product/integrations/&#34;&gt;Integrations Platform&lt;/a&gt; squad at Postman.&lt;/li&gt;
+&lt;li&gt;Built end to end product features in the &lt;a href=&#34;https://go.postman.co/integrations/browse?category=all&#34;&gt;integrations&lt;/a&gt; part of Postman.&lt;/li&gt;
+&lt;li&gt;Enhanced the reliability, observability, and developer productivity of the backend systems with a strict SLA of p999.&lt;/li&gt;
+&lt;li&gt;Built POCs to unlock new channels of revenue in the enterprise product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://static.wixstatic.com/media/93e6cc_06092ac400334a2c83ead0b7278d9c94~mv2.png/v1/fit/w_2500,h_1330,al_c/93e6cc_06092ac400334a2c83ead0b7278d9c94~mv2.png#center&#34; width=&#34;200&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;strong&gt;Mingout&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/posts/books/</link>
+      <link>https://example.org/posts/books/</link>
       <pubDate>Thu, 22 Feb 2024 00:55:28 +0530</pubDate>
-      <guid>http://localhost:1313/posts/books/</guid>
+      <guid>https://example.org/posts/books/</guid>
       <description>&lt;p&gt;This is a growing list of the books I like to read. Some of them are half-way through (in progress).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tech&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -25,51 +59,10 @@
 &lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Products</title>
-      <link>http://localhost:1313/posts/products/</link>
-      <pubDate>Wed, 21 Feb 2024 22:32:50 +0530</pubDate>
-      <guid>http://localhost:1313/posts/products/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://d6xcmfyh68wv8.cloudfront.net/newsroom-content/uploads/2021/02/white-1536x327.png#center&#34; width=&#34;280&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;strong&gt;Razorpay&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://razorpay.com/&#34;&gt;Razorpay&lt;/a&gt; is the major payment gateway out of India facilitating payments over 140 billion USD annually for the merchants across India, Singapore, and US.&lt;/li&gt;
-&lt;li&gt;Owns auth and compliance platform ~10k TPS at Razorpay&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png#center&#34; width=&#34;280&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Postman&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Postman is the world&amp;rsquo;s largest API Platform tool for managing life cycle of APIs and &lt;a href=&#34;https://www.postman.com/collection/&#34;&gt;collections&lt;/a&gt; for 25M users globally.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;I am an IC in the &lt;a href=&#34;https://www.postman.com/product/integrations/&#34;&gt;Integrations Platform&lt;/a&gt; squad at Postman.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Goals&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Build end to end product features in the &lt;a href=&#34;https://go.postman.co/integrations/browse?category=all&#34;&gt;integrations&lt;/a&gt; part of Postman.&lt;/li&gt;
-&lt;li&gt;Enhance the reliability, observability, and developer productivity of the backend systems with a strict SLA of p999.&lt;/li&gt;
-&lt;li&gt;Build POCs to unlock new channels of revenue in the enterprise product.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://static.wixstatic.com/media/93e6cc_06092ac400334a2c83ead0b7278d9c94~mv2.png/v1/fit/w_2500,h_1330,al_c/93e6cc_06092ac400334a2c83ead0b7278d9c94~mv2.png#center&#34; width=&#34;200&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;strong&gt;Mingout&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About Me</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://example.org/posts/introduction/</link>
       <pubDate>Wed, 21 Feb 2024 20:03:15 +0530</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>https://example.org/posts/introduction/</guid>
       <description>&lt;p&gt;&amp;#x1f44b; there!&lt;/p&gt;
 &lt;p&gt;I am Saurav, an engineer who loves building products with user empathy. I am a DIY person who&amp;rsquo;s a big fan of tinkering / hacking around stuff. In real life, I like anything that flies - RC planes, drones, gliders, &lt;a href=&#34;https://en.wikipedia.org/wiki/Ornithopter&#34;&gt;ornithopters&lt;/a&gt;. 🛸&lt;/p&gt;
 &lt;p&gt;As a child, I used to spend a lot of time playing &lt;a href=&#34;https://phoneky.com/games/&#34;&gt;J2ME games&lt;/a&gt; and was amazed to see the revolution of mobile devices since 2004.&lt;/p&gt;
