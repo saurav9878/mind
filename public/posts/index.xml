@@ -4,7 +4,7 @@
     <title>Posts on Saurav K.</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Saurav K.</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2024 00:55:28 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,30 +13,67 @@
       <link>http://localhost:1313/posts/books/</link>
       <pubDate>Thu, 22 Feb 2024 00:55:28 +0530</pubDate>
       <guid>http://localhost:1313/posts/books/</guid>
-      <description>This is a growing list of the books I like to read. Some of them are half-way through (in progress).
-Tech
-Clean Code - Robert C. Martin Designing Data Intensive applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann Staff Engineer: Leadership beyond the management track - Will Larson The Pragmatic Programmer - Andy Hunt and Dave Thomas Product
-Doglapan : The Hard Truth about Life and Start-Ups - Ashneer Grover The Mom test: How to talk to customers &amp;amp; learn if your business is a good idea when everyone is lying to you - Rob Fitzpatrick The CEO Factory: Management Lessons from Hindustan Unilever - Sudhir Sitapati Life - in general</description>
+      <description>&lt;p&gt;This is a growing list of the books I like to read. Some of them are half-way through (in progress).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clean Code - Robert C. Martin&lt;/li&gt;
+&lt;li&gt;Designing Data Intensive applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann&lt;/li&gt;
+&lt;li&gt;Staff Engineer: Leadership beyond the management track - Will Larson&lt;/li&gt;
+&lt;li&gt;The Pragmatic Programmer - Andy Hunt and Dave Thomas&lt;/li&gt;
+&lt;li&gt;Computer Science Distilled: Learn the Art of Solving Computational Problems - Wladston Ferreira Filho&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Products</title>
       <link>http://localhost:1313/posts/products/</link>
       <pubDate>Wed, 21 Feb 2024 22:32:50 +0530</pubDate>
       <guid>http://localhost:1313/posts/products/</guid>
-      <description>Postman
-Postman is an API Platform tool for managing life cycle of APIs and collections.
-I am an IC in the Integrations Platform squad at Postman.
-Goals
-Build end to end product features in the integrations part of Postman. Enhance the reliability, observability, and developer productivity of the backend systems with a strict SLA of p999. Build POCs to unlock new channels of revenue in the enterprise product. Mingout</description>
+      <description>&lt;p&gt;&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://d6xcmfyh68wv8.cloudfront.net/newsroom-content/uploads/2021/02/white-1536x327.png#center&#34; width=&#34;280&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;strong&gt;Razorpay&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://razorpay.com/&#34;&gt;Razorpay&lt;/a&gt; is the major payment gateway out of India facilitating payments over 140 billion USD annually for the merchants across India, Singapore, and US.&lt;/li&gt;
+&lt;li&gt;Owns auth and compliance platform ~10k TPS at Razorpay&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png#center&#34; width=&#34;280&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Postman&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Postman is the world&amp;rsquo;s largest API Platform tool for managing life cycle of APIs and &lt;a href=&#34;https://www.postman.com/collection/&#34;&gt;collections&lt;/a&gt; for 25M users globally.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I am an IC in the &lt;a href=&#34;https://www.postman.com/product/integrations/&#34;&gt;Integrations Platform&lt;/a&gt; squad at Postman.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Goals&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build end to end product features in the &lt;a href=&#34;https://go.postman.co/integrations/browse?category=all&#34;&gt;integrations&lt;/a&gt; part of Postman.&lt;/li&gt;
+&lt;li&gt;Enhance the reliability, observability, and developer productivity of the backend systems with a strict SLA of p999.&lt;/li&gt;
+&lt;li&gt;Build POCs to unlock new channels of revenue in the enterprise product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://static.wixstatic.com/media/93e6cc_06092ac400334a2c83ead0b7278d9c94~mv2.png/v1/fit/w_2500,h_1330,al_c/93e6cc_06092ac400334a2c83ead0b7278d9c94~mv2.png#center&#34; width=&#34;200&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;strong&gt;Mingout&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Wed, 21 Feb 2024 20:03:15 +0530</pubDate>
       <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&amp;#x1f44b; there!
-I am Saurav, an engineer who loves building products with user empathy. I am a DIY person who&amp;rsquo;s a big fan of tinkering / hacking around stuff. In real life, I like anything that flies - RC planes, drones, gliders, ornithopters. 🛸
-As a child, I used to spend a lot of time playing J2ME games and was amazed to see the revolution of mobile devices since 2004.</description>
+      <description>&lt;p&gt;&amp;#x1f44b; there!&lt;/p&gt;
+&lt;p&gt;I am Saurav, an engineer who loves building products with user empathy. I am a DIY person who&amp;rsquo;s a big fan of tinkering / hacking around stuff. In real life, I like anything that flies - RC planes, drones, gliders, &lt;a href=&#34;https://en.wikipedia.org/wiki/Ornithopter&#34;&gt;ornithopters&lt;/a&gt;. 🛸&lt;/p&gt;
+&lt;p&gt;As a child, I used to spend a lot of time playing &lt;a href=&#34;https://phoneky.com/games/&#34;&gt;J2ME games&lt;/a&gt; and was amazed to see the revolution of mobile devices since 2004.&lt;/p&gt;
+&lt;p&gt;At the age of 14, I rooted an Android device. It gave me a superpower to explore various files outside of &lt;a href=&#34;https://man7.org/linux/man-pages/man7/file-hierarchy.7.html&#34;&gt;&lt;code&gt;/home&lt;/code&gt;&lt;/a&gt; and what&amp;rsquo;s outside of it that makes up a firware image of Android. The next thing I remember is I was drenched down in the XDA blogs figuring out a way to install &lt;a href=&#34;https://www.xda-developers.com/history-of-lineageos/&#34;&gt;custom ROMs&lt;/a&gt; and trying to replace boot animation with a batman logo. &amp;#x1f987; &amp;#x1f9b8;&amp;zwj;&amp;#x2642;&amp;#xfe0f;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

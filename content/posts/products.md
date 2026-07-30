@@ -1,21 +1,29 @@
 +++
 title = 'Products'
-date = 2024-02-21T22:32:50+05:30
+date = 2026-07-30T22:32:50+05:30
 draft = false
 menus = 'main'
 +++
+
+{{< figure src="https://d6xcmfyh68wv8.cloudfront.net/newsroom-content/uploads/2021/02/white-1536x327.png" width=280  align="center" >}}
+**Razorpay**
+- [Razorpay](https://razorpay.com/) is a major payments gateway facilitating payments over 140 billion USD annually for the merchants across India, Singapore, and US.
+- I owned critical systems like auth and compliance platform (~10k TPS) at Razorpay
+- Planned and executed multi-quarter project with cross team dependencies; led a team of 7 engineers
+- Interests: AI native engineering, human computer interaction, avid reader of hacker news - YC.
+
+
+
 
 {{< figure src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" width=280  align="center" >}}
 
 **Postman**
 
-- Postman is an API Platform tool for managing life cycle of APIs and [collections](https://www.postman.com/collection/).
-- I am an IC in the [Integrations Platform](https://www.postman.com/product/integrations/) squad at Postman.
-- Goals
-
-  - Build end to end product features in the [integrations](https://go.postman.co/integrations/browse?category=all) part of Postman.
-  - Enhance the reliability, observability, and developer productivity of the backend systems with a strict SLA of p999.
-  - Build POCs to unlock new channels of revenue in the enterprise product.
+- [Postman](https://www.postman.com) is the world's largest API Platform tool for managing life cycle of APIs and collections for 25M users globally.
+- I was part of the [Integrations Platform](https://www.postman.com/product/integrations/) squad at Postman.
+- Built end to end product features in the [integrations](https://go.postman.co/integrations/browse?category=all) part of Postman.
+- Enhanced the reliability, observability, and developer productivity of the backend systems with a strict SLA of p999.
+- Built POCs to unlock new channels of revenue in the enterprise product.
 
 {{< figure src="https://static.wixstatic.com/media/93e6cc_06092ac400334a2c83ead0b7278d9c94~mv2.png/v1/fit/w_2500,h_1330,al_c/93e6cc_06092ac400334a2c83ead0b7278d9c94~mv2.png" width=200   align="center" >}}
 **Mingout**
