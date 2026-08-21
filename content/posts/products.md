@@ -5,7 +5,7 @@ draft = false
 menus = 'main'
 +++
 
-{{< figure src="https://d6xcmfyh68wv8.cloudfront.net/newsroom-content/uploads/2021/02/white-1536x327.png" width=280  align="center" >}}
+{{< figure src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5O5GlD0Ho4lZkHxWLDenDBTDhE1wgIT9ewC-cV8ZlhaQHhgswlVyfflg&s=10" width=280  align="center" >}}
 **Razorpay**
 - [Razorpay](https://razorpay.com/) is a major payments gateway facilitating payments over 140 billion USD annually for the merchants across India, Singapore, and US.
 - I owned critical systems like auth and compliance platform (~10k TPS) at Razorpay
